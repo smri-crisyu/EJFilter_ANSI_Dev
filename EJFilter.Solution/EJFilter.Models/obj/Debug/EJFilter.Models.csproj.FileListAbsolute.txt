@@ -1,0 +1,12 @@
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EJFilter.Models.dll.config
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EJFilter.Models.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EJFilter.Models.pdb
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EntityFramework.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EntityFramework.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\obj\Debug\EJFilter.Models.csproj.AssemblyReference.cache
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\obj\Debug\EJFilter.Models.csproj.CoreCompileInputs.cache
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\obj\Debug\EJFilter.Models.csproj.CopyComplete
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\obj\Debug\EJFilter.Models.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Models\obj\Debug\EJFilter.Models.pdb

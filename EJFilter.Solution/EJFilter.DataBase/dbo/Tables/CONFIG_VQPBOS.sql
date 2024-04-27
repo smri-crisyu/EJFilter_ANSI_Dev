@@ -1,0 +1,21 @@
+﻿CREATE TABLE [dbo].[CONFIG_VQPBOS] (
+    [ID]          INT           IDENTITY (1, 1) NOT NULL,
+    [BRANCH_CODE] VARCHAR (42)  NULL,
+    [STORE_CODE]  VARCHAR (42)  NULL,
+    [TYPE]        VARCHAR (42)  NULL,
+    [CITY]        VARCHAR (42)  NULL,
+    [COMPANY]     VARCHAR (42)  NULL,
+    [LOCATION]    VARCHAR (200) NULL,
+    [ZIP_CODE]    VARCHAR (200) NULL,
+    [VATREGTIN_H] VARCHAR (42)  NULL,
+    [POS_NO]      VARCHAR (42)  NULL,
+    [SN_NO]       VARCHAR (42)  NULL,
+    [PERMIT_NO]   VARCHAR (42)  NULL,
+    [MIN_NO]      VARCHAR (42)  NULL,
+    [VATREGTIN_F] VARCHAR (42)  NULL,
+    [ACCR_NO]     VARCHAR (42)  NULL,
+    [ACCRNO2]     VARCHAR (42)  NULL,
+    [DATE]        VARCHAR (42)  NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[BRANCH_VQPBOS] (
+    [ID]          INT          IDENTITY (1, 1) NOT NULL,
+    [BRANCH_CODE] VARCHAR (42) NULL,
+    [STORE_CODE]  VARCHAR (42) NULL,
+    [TYPE]        VARCHAR (42) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

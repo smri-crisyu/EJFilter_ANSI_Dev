@@ -1,0 +1,15 @@
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Repository.dll.config
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Repository.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Repository.pdb
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Models.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EntityFramework.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Models.pdb
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EJFilter.Models.dll.config
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EntityFramework.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\obj\Debug\EJFilter.Repository.csproj.AssemblyReference.cache
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\obj\Debug\EJFilter.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\obj\Debug\EJFilter.Repository.csproj.CopyComplete
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\obj\Debug\EJFilter.Repository.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.Repository\obj\Debug\EJFilter.Repository.pdb

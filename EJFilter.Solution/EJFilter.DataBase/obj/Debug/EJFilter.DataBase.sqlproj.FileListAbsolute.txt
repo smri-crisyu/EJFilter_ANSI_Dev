@@ -1,0 +1,10 @@
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\bin\Debug\EJFilter.DataBase.dacpac
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\bin\Debug\EJFilter.DataBase.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\bin\Debug\EJFilter.DataBase.pdb
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\EJFilter.DataBase.sqlproj.AssemblyReference.cache
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\EJFilter.DataBase.dll
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\EJFilter.DataBase.pdb
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\Model.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\refactor.xml
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\postdeploy.sql
+C:\Projects\EJ_FRG\Codes\EJFilter.Solution\EJFilter.DataBase\obj\Debug\predeploy.sql

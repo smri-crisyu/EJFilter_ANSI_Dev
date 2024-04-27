@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJFilter.Service", "EJFilter.Service\EJFilter.Service.csproj", "{35AEA78C-70BF-4D02-9FAE-D5964FD03BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJFilter.Repository", "EJFilter.Repository\EJFilter.Repository.csproj", "{75FBDBAB-6130-4F9E-837C-72E794FB2459}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EJFilter.DataBase", "EJFilter.DataBase\EJFilter.DataBase.sqlproj", "{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJFilter.Models", "EJFilter.Models\EJFilter.Models.csproj", "{CF849D8B-3074-424F-AD9E-9266ABFF220D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJFilter.WinForm", "EJFilter.WinForm\EJFilter.WinForm.csproj", "{6E196F05-2912-4155-84DA-6DC3C7C07095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJFilter.Scheduler", "EJFilter.Scheduler\EJFilter.Scheduler.csproj", "{B58D8A12-5265-4946-9FA9-3465ED02A5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AEA78C-70BF-4D02-9FAE-D5964FD03BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AEA78C-70BF-4D02-9FAE-D5964FD03BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AEA78C-70BF-4D02-9FAE-D5964FD03BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AEA78C-70BF-4D02-9FAE-D5964FD03BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FBDBAB-6130-4F9E-837C-72E794FB2459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FBDBAB-6130-4F9E-837C-72E794FB2459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FBDBAB-6130-4F9E-837C-72E794FB2459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FBDBAB-6130-4F9E-837C-72E794FB2459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD6AB55-7B2B-41A7-A8C1-DE41DC12D08A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF849D8B-3074-424F-AD9E-9266ABFF220D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF849D8B-3074-424F-AD9E-9266ABFF220D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF849D8B-3074-424F-AD9E-9266ABFF220D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF849D8B-3074-424F-AD9E-9266ABFF220D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E196F05-2912-4155-84DA-6DC3C7C07095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E196F05-2912-4155-84DA-6DC3C7C07095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E196F05-2912-4155-84DA-6DC3C7C07095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E196F05-2912-4155-84DA-6DC3C7C07095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58D8A12-5265-4946-9FA9-3465ED02A5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58D8A12-5265-4946-9FA9-3465ED02A5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58D8A12-5265-4946-9FA9-3465ED02A5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58D8A12-5265-4946-9FA9-3465ED02A5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD6479E-BB89-4780-A91B-7E51AACFF500}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hovcsrp1.smretailinc.com:8080/tfs/frg_collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EJFilter.Repository\\EJFilter.Repository.csproj
+		SccProjectName1 = EJFilter.Repository
+		SccLocalPath1 = EJFilter.Repository
+		SccProjectUniqueName2 = EJFilter.Service\\EJFilter.Service.csproj
+		SccProjectName2 = EJFilter.Service
+		SccLocalPath2 = EJFilter.Service
+		SccProjectUniqueName3 = EJFilter.Models\\EJFilter.Models.csproj
+		SccProjectName3 = EJFilter.Models
+		SccLocalPath3 = EJFilter.Models
+		SccProjectUniqueName4 = EJFilter.WinForm\\EJFilter.WinForm.csproj
+		SccProjectName4 = EJFilter.WinForm
+		SccLocalPath4 = EJFilter.WinForm
+		SccProjectUniqueName5 = EJFilter.Scheduler\\EJFilter.Scheduler.csproj
+		SccProjectName5 = EJFilter.Scheduler
+		SccLocalPath5 = EJFilter.Scheduler
+	EndGlobalSection
+EndGlobal
